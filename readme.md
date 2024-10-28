@@ -1,10 +1,12 @@
 # zenith
 
-This repository contains the Zenith beta website: <https://beta.zenithhacks.org/>
+This repository contains the Zenith website: <https://zenithhacks.org/>
 
 ## Contribution process
 
-This repository is not accepting code contributions from people outside Zenith, but you are welcome to create a new issue.
+### I'm not part of the Zenith orga team
+
+No worries! For any substantial changes, please discuss in the [#zenith-bts channel on the Slack](https://hackclub.slack.com/archives/C07HX4VJXUP) or open a new issue.
 
 ### I'm a Zenith team member
 
@@ -36,7 +38,7 @@ make fonts             # generate font subsets
 The built website **must**:
 
 - Be compatible with Baseline 2023 browsers.
-- Have all features work without JavaScript enabled.
+- Have all features work without JavaScript enabled, unless it's simply unviable to do so.
 - Meet Lighthouse targets. Every metric should be above 95.
 - Support reduced motion
 - Comply with the WCAG AA checklist (pending)

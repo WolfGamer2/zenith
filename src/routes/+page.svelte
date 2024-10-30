@@ -24,7 +24,7 @@
 
 <svelte:head>
   <title>Zenith Hacks</title>
-  <meta name="description" content="Zenith is a hackathon in San Francisco for teens coming next year." />
+  <meta name="description" content="Zenith is a hackathon in the UK for teens coming next year." />
   <!-- TODO: Add structured data: https://developers.google.com/search/docs/appearance/structured-data/event#structured-data-type-definitions -->
 </svelte:head>
 
@@ -63,7 +63,7 @@
         };
       }}
     >
-      <p>Get exactly one <span aria-hidden="true">(1)</span> email when sign ups open:</p>
+      <p>We'll send you a maximum of two emails a week! Unsubscribe anytime.</p>
       <label for="email">Your email</label>
       <div class="email-form">
         <input

@@ -24,7 +24,7 @@
 
 <svelte:head>
   <title>Zenith Hacks</title>
-  <meta name="description" content="Zenith is a hackathon in the UK for teens coming next year." />
+  <meta name="description" content="Zenith is a hackathon in the SFO for teens coming next year." />
   <!-- TODO: Add structured data: https://developers.google.com/search/docs/appearance/structured-data/event#structured-data-type-definitions -->
 </svelte:head>
 
@@ -45,7 +45,7 @@
       </span>
     </h1>
     <p class="header-promo">
-      Zenith is a hackathon in the UK for teens led by the Hack Club community coming next year. Join us and make
+      Zenith is a hackathon in the SFO for teens led by the Hack Club community coming next year. Join us and make
       something awesome!
     </p>
     <form
